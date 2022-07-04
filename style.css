@@ -4,12 +4,17 @@ body {font-family: 'Poppins', sans-serif;
 h1 {
     font-size: 50px;
 }
+.flexible-continer {
+    display: flex;
+    margin: 150px;
+}
 .rong {
     color: rgb(203, 4, 221);
 }
-section {
+.flexible-continer {
     display: flex;
 }
+
 .half-width {
     width: 50%;
     padding-left: 10%;
