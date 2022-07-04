@@ -3,6 +3,7 @@ body {font-family: 'Poppins', sans-serif;
 }
 h1 {
     font-size: 50px;
+    
 }
 .flexible-continer {
     display: flex;
@@ -39,5 +40,19 @@ h1 {
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
-}
+    }
+    .orange {
+        color: darkred;
+    }
+    .area {
+        background-image: url(image/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    .relation {
+        width: 40%;
+        margin-left: 6%;
+        margin-right: 6%;
+        padding-left: 10px;
+        box-shadow: 10px 10px 40px yellowgreen;
+    }
