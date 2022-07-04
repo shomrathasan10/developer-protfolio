@@ -55,4 +55,16 @@ h1 {
         margin-right: 6%;
         padding-left: 10px;
         box-shadow: 10px 10px 40px yellowgreen;
+        border-left: 7px solid rgb(236, 91, 7);
+       
+    }
+    #tibe {
+        border-left: 7px solid blue;
+    }
+    #shomrat {
+        border-left: 7px solid slateblue;
+    }
+    footer {
+        text-align: center;
+
     }
